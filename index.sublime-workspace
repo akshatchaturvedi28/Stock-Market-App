@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"posted_stuff"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"other",
+				"otherstuff"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"w",
+				"writeHead"
+			],
+			[
+				"te",
+				"Content-Type"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1307,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 432,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/stockMarket/index.js",
+		"/D/gScale/views/about.handlebars",
+		"/D/gScale/views/home.handlebars",
+		"/D/gScale/views/layouts/main.handlebars",
+		"/D/stockMarket/views/layouts/main.handlebars",
+		"/D/stockMarket/views/about.handlebars",
+		"/D/stockMarket/views/home.handlebars",
+		"/D/stockMarket/Procfile",
+		"/D/stockMarket/public/about2.html",
+		"/D/stockMarket/public/index.html",
+		"/D/stockMarket/public/about.html",
+		"/D/stockMarket/package.json",
+		"/C/nodefiles/Webpages.js",
+		"/C/nodefiles/file_system.js",
+		"/C/nodefiles/hello.js",
+		"/C/nodefiles/index.html",
+		"/C/nodemysql/Insert_many.js",
+		"/C/nodemysql/table.js",
+		"/C/nodemysql/alter_table.js",
+		"/C/nodemysql/hello.js",
+		"/C/Users/aksha/Desktop/Dream Mechants (Front_Page)/DreamMerchants.css",
+		"/C/Users/aksha/Desktop/Dream Mechants (Front_Page)/DreamMerchants.html",
+		"/C/nodefiles/day.html",
+		"/C/nodefiles/night.html",
+		"/C/nodefiles/package.json",
+		"/C/nodefiles/Procfile",
+		"/C/nodefiles/removeHTML.js",
+		"/C/nodefiles/url.js",
+		"/C/nodefiles/server.js",
+		"/C/Users/aksha/Desktop/javaScript/1 javascript.html",
+		"/C/Users/aksha/Downloads/VL2019205001474_AST02",
+		"/C/Users/aksha/Desktop/javaScript/11 Functions.html",
+		"/C/Users/aksha/Desktop/Club Front Page/DreamMerchants.css",
+		"/C/Users/aksha/Desktop/Club Front Page/DreamMerchants.html",
+		"/C/Users/aksha/Desktop/Fall 2K19/SIN/Project_SIN/sentiments_analysis.py",
+		"/C/Users/aksha/Desktop/javaScript/10 Objects.html",
+		"/C/Users/aksha/Desktop/javaScript/9 arrays.html",
+		"/C/Users/aksha/Desktop/javaScript/demo.html",
+		"/C/Users/aksha/Desktop/javaScript/8 FizzBuzz.html",
+		"/C/Users/aksha/Desktop/javaScript/2 Math&Numbers.html",
+		"/C/Users/aksha/Desktop/javaScript/7 Loops.html",
+		"/C/Users/aksha/Desktop/javaScript/5 Comparison Operators.html",
+		"/C/Users/aksha/Desktop/javaScript/6 If-Else Statements.html",
+		"/C/Users/aksha/Desktop/javaScript/Math&Numbers.html",
+		"/C/Users/aksha/Desktop/javaScript/4 Assignment Operators.html",
+		"/C/Users/aksha/Desktop/html/Math&Numbers.html",
+		"/C/Users/aksha/Desktop/html/javascript.html",
+		"/C/Users/aksha/Desktop/javaScript/javascript.html",
+		"/C/Users/aksha/Desktop/javaScript/Variables.html",
+		"/C/Users/aksha/Desktop/html/DreamMerchants.html",
+		"/C/Users/aksha/Desktop/html/DreamMerchants.css",
+		"/C/Users/aksha/Desktop/html/akshat.html",
+		"/C/Users/aksha/Desktop/html/akshat.css",
+		"/C/Users/aksha/Desktop/html/php.php",
+		"/C/Users/aksha/Desktop/html/button.html",
+		"/C/Users/aksha/Desktop/html/helloworld.html",
+		"/C/Users/aksha/Desktop/html/helloworld.css",
+		"/C/Users/aksha/Desktop/html/hello world.html",
+		"/D/Old Laptop/Peaky Blinders/Season 1/Peaky.Blinders.S01E01.720p.BluRay.x264.400MB-Pahe.in.mkv",
+		"/C/Users/aksha/Desktop/html/index.html",
+		"/C/Users/aksha/Desktop/Project_SIN/electronics/negative.review"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1659,
+								1663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.33333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
